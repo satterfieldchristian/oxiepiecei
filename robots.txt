@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chaichiohe.openlumify.org/sitemap.xml
